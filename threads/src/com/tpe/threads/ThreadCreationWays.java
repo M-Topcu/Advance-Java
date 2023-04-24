@@ -36,7 +36,7 @@ public class ThreadCreationWays {
 		
 		
 		Thread thread4 = new Thread(()->{
-			System.out.println("It is lamda way");
+			System.out.println("It is lambda way");
 		});
 		thread4.start();
 		
